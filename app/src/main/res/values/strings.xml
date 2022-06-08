@@ -3,4 +3,5 @@
     <string name="textView_titulo">Esa Nota</string>
     <string name="textEmailAddress_hint">Ingrese su e-mail</string>
     <string name="textPassword_clave">Ingrese su contraseña</string>
+    <string name="textActionBar">Bienvenidos</string>
 </resources>
