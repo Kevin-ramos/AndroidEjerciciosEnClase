@@ -62,7 +62,7 @@ class LoginActivity : AppCompatActivity() {
             buttonIngresar.setBackgroundColor(Color.GREEN)
         }
         editTextEmailAddress.setText("kevin.ramos01@epn.edu.ec")
-        //sfs
+        //sfsdfasd
 
     }
 }
